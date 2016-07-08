@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Anennya (if you didn't already get that from the name of the blog, or the url or my username).
+I have degrees in Applied Math and Economics. I work as a data analyst for a small company and I kinda like it. 
+I live in San Francisco with my husband. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+    
+Right now my ambition is to rekindle my curiosity and steer my everyday life away from feeling like I am constantly preparing for a job interview (no, I am not actually preparing for an interview nor am I looking for a job) - that is, having to present what I know well, use my "extensive" knowledge to contribute, prove my passion for the job and product and exhibit confidence.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am hoping this blog will help me with that. I want to learn for the sake of learning and share what I retain. So stay tuned! 
+
